@@ -1,0 +1,5 @@
+services:
+    mapado_twig_extensions_bundle.url:
+        class: Mapado\TwigExtensionsBundle\Twig\Url
+        tags:
+            - { name: twig.extension }
