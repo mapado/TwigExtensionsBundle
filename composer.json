@@ -17,5 +17,5 @@
     "autoload": {
         "psr-0": { "Mapado\\TwigExtensionsBundle": "" }
     },
-    "target-dir": "Mapado\\TwigExtensionsBundle"
+    "target-dir": "Mapado/TwigExtensionsBundle"
 }
